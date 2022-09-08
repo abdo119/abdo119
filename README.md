@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot Framework**
 
-- 💬 Ask me about **Spring boot,Django, Larave, Angular and Vue Js**
+- 💬 Ask me about **Spring boot,Django, Laravel, Angular and Vue Js**
 
 - 📫 How to reach me **abdelrahmn.ahmed119@gmail.com**
 
