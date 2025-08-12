@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Abdelrahman Ahmed</h1>
-<h3 align="center">I'm Student at faculty of computer and artificial intelligence Cairo university|| I'm Back end Developer</h3>
+<h3 align="center">I graduated from Faculty of Computer and ,Artificial Intelligence Cairo University || I'm Back Back-end Developer</h3>
 
 - 🔭 I’m currently working on **Back end of Projects**
 
 - 🌱 I’m currently learning **Spring boot Framework**
 
-- 💬 Ask me about **Spring boot,Django, Laravel, Angular and Vue Js**
+- 💬 Ask me about **Spring Boot, Django, Laravel, Angular, and Vue.js**
 
 - 📫 How to reach me **abdelrahmn.ahmed119@gmail.com**
 
